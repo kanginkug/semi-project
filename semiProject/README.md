@@ -121,8 +121,6 @@
 
 ![뮤지컬 전체목록](https://github.com/kanginkug/semi-project/assets/83181058/82a9f492-b7f5-4c54-a99a-9598545ebaf1)
 
-<br>
-<br>
 
 #### 3. 하단 섹션
 뮤지컬 목록을 확인할 수 있고 더보기 버튼을 누르면 전체 뮤지컬 목록을 확인할 수 있습니다.
