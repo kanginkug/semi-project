@@ -106,7 +106,7 @@
 지역별로 조회수가 높은 공연들과 최근 리뷰, 공지, QnA 게시판의 게시글을 확인할 수 있습니다.
 
 <br>
-
+<br>
 ### ✔Musical Main
 ![뮤지컬 추천](https://github.com/kanginkug/semi-project/assets/83181058/ff8985ca-324a-461b-a335-c9b4e7d328bd)
 
@@ -119,7 +119,7 @@
 
 ![뮤지컬 전체목록](https://github.com/kanginkug/semi-project/assets/83181058/82a9f492-b7f5-4c54-a99a-9598545ebaf1)
 <br>
-
+<br>
 #### 3. 하단 섹션
 뮤지컬 목록을 확인할 수 있고 더보기 버튼을 누르면 전체 뮤지컬 목록을 확인할 수 있습니다.
 <br>
@@ -144,7 +144,7 @@
 pick-date 폼으롤 날짜를 선택하고 관객정보, 인원, 좌석정보를 선택 후 결제버튼을 누르면 예매가 완료됩니다.
 해당 예약은 마이페이지에서 확인할 수 있고 취소 또한 가능합니다. 비회원은 해당 버튼을 사용할 수 없습니다.
 <br>
-
+<br>
 ### ✔My Page
 [MyPage (2).webm](https://github.com/kanginkug/semi-project/assets/83181058/b5a1c232-c279-4629-aa5f-6aee16525d27)
 
@@ -156,7 +156,7 @@ pick-date 폼으롤 날짜를 선택하고 관객정보, 인원, 좌석정보를
 찜목록에선 공연상세페이지로 넘어가 찜삭제가 가능합니다.
 
 <br>
-
+<br>
 ### ✔My Favorite
 [favorite.webm](https://github.com/kanginkug/semi-project/assets/83181058/6b7845b3-fda3-4821-8bb9-101458eec1e8)
 
@@ -164,7 +164,7 @@ pick-date 폼으롤 날짜를 선택하고 관객정보, 인원, 좌석정보를
 찜하기를 해 마이페이지에서 확인할 수 있습니다. 비회원은 해당 버튼을 사용할 수 없습니다.
 
 <br>
-
+<br>
 [ CultureShock의 더 자세한 설명
 [culture_shock.pdf](https://github.com/kanginkug/semi-project/files/12827648/culture_shock.pdf)
 
