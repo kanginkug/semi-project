@@ -2,7 +2,8 @@
 <div align="center">
 <h1>🎺 Culture Shock 🎺</h1>
 </div>
-![image](https://github.com/kanginkug/semi-project/assets/83181058/a046d2f9-eda7-4b6d-b805-a458b9184de5)
+![image](https://github.com/kanginkug/semi-project/assets/83181058/9642b238-0cec-4f7d-a2ef-917e45e7478b)
+
 
 
 
