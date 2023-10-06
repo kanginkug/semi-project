@@ -161,6 +161,7 @@ pick-date 폼으롤 날짜를 선택하고 관객정보, 인원, 좌석정보를
 
 <br>
 <br>
+
 ### ✔My Favorite
 [favorite.webm](https://github.com/kanginkug/semi-project/assets/83181058/6b7845b3-fda3-4821-8bb9-101458eec1e8)
 
