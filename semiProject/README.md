@@ -120,8 +120,9 @@ SELECT태그를 이용해 카테고리와 지역을 선택할 수 있게 하여 
 
 <br>
 
-### ✔Restaurant Sub
-[resSub.webm](https://github.com/kanginkug/final-project/assets/83181058/3f195821-1b9a-416c-be82-9c72b85d72bc)
+### ✔Musical Search
+![image](https://github.com/kanginkug/semi-project/assets/83181058/c9e9c1ad-54f2-4abd-bd4b-26959d8ad462)
+
 
 #### 1. 상세 필터 세션
 지역, 메인메뉴의 가격대, 오픈 시간 세션의 원하는 기능을 선택해 검색할 수 있습니다.
