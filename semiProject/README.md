@@ -138,7 +138,8 @@
 #### 2. 상세 이미지 정보
 상세이미지 버튼을 클릭하면 해당 뮤지컬의 상세 이미지 정보가 펼쳐져 더 자세한 정보를 확인할 수 있습니다.
 
-
+<br>
+<br>
 
 ### ✔Musical Reservation
 [musicalReservation.webm](https://github.com/kanginkug/semi-project/assets/83181058/3c2a5407-d37a-4d56-a418-5f8d8346e529)
