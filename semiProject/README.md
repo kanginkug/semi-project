@@ -81,7 +81,7 @@
 
 ## 💡 기술 스택 및 사용 API
 
-![기술](https://github.com/kanginkug/semi-project/assets/83181058/55a9a4b0-c9b9-4761-ae68-86ce83d5fd2d)
+![기술](https://github.com/kanginkug/semi-project/assets/83181058/640cdb3d-2cba-44e0-b049-ac6775f01a3d)
 
 
 
