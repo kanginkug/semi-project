@@ -107,7 +107,9 @@
 
 <br>
 <br>
+
 ### ✔Musical Main
+
 ![뮤지컬 추천](https://github.com/kanginkug/semi-project/assets/83181058/ff8985ca-324a-461b-a335-c9b4e7d328bd)
 
 
@@ -118,6 +120,7 @@
 
 
 ![뮤지컬 전체목록](https://github.com/kanginkug/semi-project/assets/83181058/82a9f492-b7f5-4c54-a99a-9598545ebaf1)
+
 <br>
 <br>
 #### 3. 하단 섹션
