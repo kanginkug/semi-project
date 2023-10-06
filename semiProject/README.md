@@ -66,7 +66,8 @@
 
 
 ## 💡 DB ERD
-![image](https://github.com/kanginkug/semi-project/assets/83181058/91d74eef-74fe-4fb8-9bdb-d5cbe6afca78)
+![image](https://github.com/kanginkug/semi-project/assets/83181058/08c42409-81ce-4104-b4a8-5a9c032c9a43)
+
 
 <br>
 <br>
