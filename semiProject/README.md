@@ -2,8 +2,6 @@
 <div align="center">
 <h1>🎺 Culture Shock 🎺</h1>
 </div>
-![image](https://github.com/kanginkug/semi-project/assets/83181058/9642b238-0cec-4f7d-a2ef-917e45e7478b)
-
 
 
 
@@ -133,7 +131,7 @@ SELECT태그를 이용해 카테고리와 지역을 선택할 수 있게 하여 
 <br>
 
 ### ✔Musicla Detail
-![뮤지컬 상세](https://github.com/kanginkug/semi-project/assets/83181058/9769a45b-5c48-4ff8-b44f-7d149a5b4402)
+![뮤지컬 상세](https://github.com/kanginkug/semi-project/assets/83181058/c89b4249-d43f-4eae-b6f0-8b0cfb87f524)
 
 #### 1. 상세 페이지 이동
 원하는 맛집을 찾았다면 클릭을 이용해 상세 페이지로 이동할 수 있습니다.
