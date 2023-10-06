@@ -132,8 +132,8 @@ SELECT태그를 이용해 카테고리와 지역을 선택할 수 있게 하여 
 
 <br>
 
-### ✔Restaurant Reservation
-[resReservation.webm](https://github.com/kanginkug/final-project/assets/83181058/290cdf28-0c87-40d3-97cf-1af72147f1b5)
+### ✔Musicla Detail
+![뮤지컬 상세](https://github.com/kanginkug/semi-project/assets/83181058/9769a45b-5c48-4ff8-b44f-7d149a5b4402)
 
 #### 1. 상세 페이지 이동
 원하는 맛집을 찾았다면 클릭을 이용해 상세 페이지로 이동할 수 있습니다.
