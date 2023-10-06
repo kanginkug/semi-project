@@ -143,8 +143,8 @@ SELECT태그를 이용해 카테고리와 지역을 선택할 수 있게 하여 
 pick-date 폼으롤 날짜를 선택하고 원하는 시간, 인원을 선택한 후 RESERVATION 버튼을 누르면 예약이 완료됩니다.
 해당 예약은 마이페이지에서 확인할 수 있고 취소 또한 가능합니다.
 
-### ✔Room Search & Reservation
-[roomReservation.webm](https://github.com/kanginkug/final-project/assets/83181058/f58f94cf-ace3-468c-9b43-9924f7ae4930)
+### ✔Musical Reservation
+[musicalReservation.webm](https://github.com/kanginkug/semi-project/assets/83181058/3c2a5407-d37a-4d56-a418-5f8d8346e529)
 
 #### 1. 조회순 필터
 숙소 상세페이지 조회순 카운팅을 이용해 오름차순, 내림차순 정렬하여 회원들에게 보여줍니다.
@@ -159,7 +159,8 @@ pick-date 폼으롤 날짜를 선택하고 원하는 시간, 인원을 선택한
 <br>
 
 ### ✔My Page
-[myPage.webm](https://github.com/kanginkug/final-project/assets/83181058/9e8f531d-7c82-45c7-9660-e1629eab890d)
+[MyPage (2).webm](https://github.com/kanginkug/semi-project/assets/83181058/b5a1c232-c279-4629-aa5f-6aee16525d27)
+
 
 #### 1. 회원 정보 수정
 회원의 이름, 아이디, 전화번호를 수정할 수 있습니다.
@@ -173,15 +174,19 @@ pick-date 폼으롤 날짜를 선택하고 원하는 시간, 인원을 선택한
 예약 목록에서 예약 취소 또한 가능합니다.
 <br>
 
+### ✔My Favorite
+[favorite.webm](https://github.com/kanginkug/semi-project/assets/83181058/6b7845b3-fda3-4821-8bb9-101458eec1e8)
 
-### ✔social login
-#### 1. 카카오 소셜 로그인
-카카오 계정으로 소셜 로그인이 가능합니다.
-만약 회원가입 이력이 없을 경우 카카오 로그인 이후 바로 회원가입을 위한 추가 정보 선택 화면으로 이동합니다.
-#### 2. 네이버 계정 로그인
-네이버 계정으로 소셜 로그인이 가능합니다.
-만약 회원가입 이력이 없을 경우 네이버 로그인 이후 바로 회원가입을 위한 추가 정보 선택 화면으로 이동합니다.
-
+#### 1. 회원 정보 수정
+회원의 이름, 아이디, 전화번호를 수정할 수 있습니다.
+#### 2. 찜 목록
+회원이 찜한 맛집, 숙소, 축제 등을 확인할 수 있습니다.
+#### 3. 게시글 목록
+회원이 작성한 게시글을 확인할 수 있습니다.
+해당 게시글에 들어가 삭제/수정 또한 가능합니다. 삭제/수정 기능은 작성자 만이 가능합니다.
+#### 4. 예약 목록
+회원이 예약한 맛집/숙소 목록을 확인할 수 있습니다. 
+예약 목록에서 예약 취소 또한 가능합니다.
 <br>
 
 [ BoogiRang의 더 자세한 설명
