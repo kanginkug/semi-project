@@ -105,7 +105,8 @@ SELECT태그를 이용해 카테고리와 지역을 선택할 수 있게 하여 
 <br>
 
 ### ✔Musical Main
-![image](https://github.com/kanginkug/semi-project/assets/83181058/4ad1ab15-db7a-447d-b1f8-1d4111e4e6a4)
+![뮤지컬 추천](https://github.com/kanginkug/semi-project/assets/83181058/ff8985ca-324a-461b-a335-c9b4e7d328bd)
+
 
 #### 1. 위쪽 검색 영역
 지역을 선택할 경우 해당 지역의 맛집들을 필터링해 검색할 수 있습니다.
@@ -113,6 +114,9 @@ SELECT태그를 이용해 카테고리와 지역을 선택할 수 있게 하여 
 랜덤으로 맛집을 보여줘 무엇을 먹을지 고민중인 회원에게 선택의 범위를 제공합니다. 클릭을 통해 해당 맛집 상세페이지로 이동합니다.
 #### 3. 하단 섹션
 이달의 별점이 높은 맛집들을 정렬해 상위권을 추천합니다. 클릭을 통해 해당 맛집 상세페이지로 이동합니다.
+
+![뮤지컬 전체목록](https://github.com/kanginkug/semi-project/assets/83181058/82a9f492-b7f5-4c54-a99a-9598545ebaf1)
+
 
 <br>
 
